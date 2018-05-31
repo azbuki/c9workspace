@@ -1,0 +1,25 @@
+body {
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #7D85BA;
+  color: #FFD29F;
+  font-family: 'Lato', sans-serif;
+  padding:70px;
+ 
+}
+li{
+  color: #010c4E;
+  font-style: italic;
+  font-weight: bolder;
+}
+hr{
+  color: #B8BAC1;
+  
+}
+.error{
+  color: #ce0a34;
+  font-style: italic;
+  font-weight: bolder;
+}

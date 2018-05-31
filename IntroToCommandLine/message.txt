@@ -1,0 +1,7 @@
+Basic message from basic txt file.
+
+Remove anything without prompts
+rm -rd  <name>
+===============================================
+npm init | starts <package>.json
+npm install <lib> --save | adds dependencies to <package>.json

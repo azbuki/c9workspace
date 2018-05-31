@@ -1,0 +1,20 @@
+
+
+img {
+    height: 60%;
+    width: 60%;
+}
+
+.error{
+  color: #ce0a34;
+  font-style: italic;
+  font-weight: bolder;
+}
+
+.top {
+    margin-top: 40px;
+}
+.yelp{
+    margin: 0 auto;
+    width: 30%;
+}

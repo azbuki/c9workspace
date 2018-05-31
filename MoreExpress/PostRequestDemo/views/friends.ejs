@@ -1,0 +1,21 @@
+<% include partials/header %>
+<h1>List of names declared in aFriends variable within routing function</h1>
+<ul>
+<%
+    friends.forEach(function(friend){
+   %>    
+       <li><%= friend %></li>
+ <%       
+    });
+%>
+</ul>
+
+
+<hr color"#667813"/>
+
+<form action="/addfriend" method="POST">
+    <input type="text" placeholder="name" name="friendname">
+    <button>someone new</button>
+</form>
+
+<% include partials/footer %>

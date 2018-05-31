@@ -1,0 +1,14 @@
+{
+  "name": "first_express",
+  "version": "1.0.0",
+  "description": "learning npm init and install + (--save)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Irene L",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}

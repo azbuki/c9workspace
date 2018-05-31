@@ -1,0 +1,16 @@
+body {
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #cba3c9;
+  color: #cae8a4;
+  font-family: 'Lato', sans-serif;
+  padding:70px;
+ 
+}
+li{
+  color: #667813;
+  font-style: italic;
+  font-weight: bolder;
+}

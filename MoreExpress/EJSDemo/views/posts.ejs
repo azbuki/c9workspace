@@ -1,0 +1,15 @@
+<link rel="stylesheet" href="app.css">
+<h1>Posts Page</h1>
+
+
+<p id="posts">
+<%
+    posts.forEach(function(post){
+        
+    %>
+        <li><strong><%= post.title %></strong> - <i><%= post.author %></i></li>
+    <%})
+
+
+%>
+</p>

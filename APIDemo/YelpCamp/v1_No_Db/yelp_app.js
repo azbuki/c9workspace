@@ -1,11 +1,19 @@
 /*General search: http://www.omdbapi.com/?s=guardians+of+the+galaxy&apikey=thewdb 
 
 Search with Movie ID: http://www.omdbapi.com/?i=tt3896198&apikey=thewdb */
-
+/*
 var request = require("request");
 var express = require("express");
 var bodyParser = require("body-parser");
 var request = require('request');
+*/
+
+
+var request    = require("request"), 
+    express    = require("express"),
+    bodyParser = require("body-parser"),
+    request    = require('request');
+
 
 var app = express();
 
